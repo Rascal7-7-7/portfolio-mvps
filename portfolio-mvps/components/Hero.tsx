@@ -54,9 +54,8 @@ export function Hero() {
       </div>
 
       {/* Scroll indicator */}
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-surface-600 text-xs">
-        <span>scroll</span>
-        <div className="w-px h-8 bg-gradient-to-b from-surface-600 to-transparent" />
+      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1">
+        <div className="w-px h-10 bg-gradient-to-b from-surface-600 to-transparent" />
       </div>
     </section>
   );

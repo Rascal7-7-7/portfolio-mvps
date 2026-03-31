@@ -15,7 +15,7 @@ export function Footer() {
             まずヒアリングから始めます。
           </p>
           <a
-            href="mailto:contact@example.com"
+            href="mailto:rascal.devops@gmail.com"
             className="inline-flex items-center gap-2 px-10 py-4 bg-brand-600 hover:bg-brand-500 text-white font-bold rounded-xl transition-colors text-lg"
           >
             無料で相談する
@@ -36,7 +36,7 @@ export function Footer() {
 
           <div className="flex items-center gap-6">
             <a
-              href="https://github.com"
+              href="https://github.com/Rascal7-7-7"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-surface-500 hover:text-surface-200 text-sm transition-colors"
@@ -45,7 +45,7 @@ export function Footer() {
               設計・コードを見る
             </a>
             <a
-              href="mailto:contact@example.com"
+              href="mailto:rascal.devops@gmail.com"
               className="flex items-center gap-2 text-surface-500 hover:text-surface-200 text-sm transition-colors"
             >
               <Mail className="w-4 h-4" />

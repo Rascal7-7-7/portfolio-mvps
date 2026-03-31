@@ -14,8 +14,8 @@ const mvps: MVPCardProps[] = [
     ],
     period: "5日",
     target: "小規模店舗・サロン",
-    githubUrl: "https://github.com",
-    demoUrl: "#",
+    githubUrl: "https://github.com/Rascal7-7-7/mvp-lp-generator",
+    demoUrl: "https://mvp-lp-generator.vercel.app/editor/1",
   },
   {
     title: "予約管理システム",
@@ -30,8 +30,8 @@ const mvps: MVPCardProps[] = [
     ],
     period: "7日",
     target: "美容室・クリニック・個人サロン",
-    githubUrl: "https://github.com",
-    demoUrl: "#",
+    githubUrl: "https://github.com/Rascal7-7-7/mvp-booking-system",
+    demoUrl: "https://mvp-booking-system.vercel.app/reservations",
   },
   {
     title: "見積管理ツール",
@@ -46,8 +46,8 @@ const mvps: MVPCardProps[] = [
     ],
     period: "6日",
     target: "フリーランス・小規模営業チーム",
-    githubUrl: "https://github.com",
-    demoUrl: "#",
+    githubUrl: "https://github.com/Rascal7-7-7/mvp-estimate-manager",
+    demoUrl: "https://mvp-estimate-manager.vercel.app/estimates",
   },
   {
     title: "サブスクEC基盤",
@@ -62,8 +62,8 @@ const mvps: MVPCardProps[] = [
     ],
     period: "8日",
     target: "D2C事業者・ネットショップ",
-    githubUrl: "https://github.com",
-    demoUrl: "#",
+    githubUrl: "https://github.com/Rascal7-7-7/mvp-subscription-ec-",
+    demoUrl: "https://mvp-subscription-ec.vercel.app/products",
   },
   {
     title: "フリーランス管理ツール",
@@ -78,8 +78,8 @@ const mvps: MVPCardProps[] = [
     ],
     period: "6日",
     target: "フリーランス・個人事業主",
-    githubUrl: "https://github.com",
-    demoUrl: "#",
+    githubUrl: "https://github.com/Rascal7-7-7/mvp-freelance-manager",
+    demoUrl: "https://mvp-freelance-manager.vercel.app/dashboard",
   },
 ];
 
