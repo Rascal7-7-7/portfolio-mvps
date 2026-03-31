@@ -1,0 +1,15 @@
+# Local Rules for LP Generator
+
+## Product Goal
+This MVP should demonstrate that a small business can generate a landing page draft quickly.
+
+## Priority
+- input to preview speed
+- clear visual output
+- editable generated sections
+- easy demo in under 3 minutes
+
+## Avoid
+- complex CMS-like architecture
+- unnecessary auth
+- unnecessary database complexity
