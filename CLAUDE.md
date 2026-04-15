@@ -75,3 +75,27 @@
 - 出力はフルコード、省略なし
 - 各MVPの `CLAUDE.local.md` を必ず参照してから作業する
 - 不明点は破壊せず、最小安全策で進める
+
+---
+
+## AI Creative Tools
+
+### Awesome Design MD（UI実装前に必ず参照）
+
+MVP の UI 実装前に以下のデザインシステムを読み込む:
+
+| MVP | 推奨デザインシステム | ファイルパス |
+|-----|-----------------|------------|
+| mvp-lp-generator | framer / webflow | `awesome-design-md-main/design-md/framer/framer.md` |
+| mvp-booking-system | notion / cal | `awesome-design-md-main/design-md/notion/notion.md` |
+| mvp-estimate-manager | stripe / airtable | `awesome-design-md-main/design-md/stripe/stripe.md` |
+| mvp-subscription-ec | stripe / coinbase | `awesome-design-md-main/design-md/stripe/stripe.md` |
+| mvp-freelance-manager | notion / airtable | `awesome-design-md-main/design-md/notion/notion.md` |
+
+ベースパス: `/home/rascal/work/awesome-design-md-main/design-md/`
+
+### Pixa MCP（デモ用画像・OGP・バナー生成）
+
+- MVPのデモ画像・OGP・ダミー商品写真が必要なときは Pixa を使う
+- 「〇〇のバナーを作って」「デモ用の商品画像を作って」で即生成
+- 生成物は各 MVP の `public/` または `assets/` ディレクトリに保存する

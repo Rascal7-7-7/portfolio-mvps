@@ -3,5 +3,9 @@
     "allow": [
       "Bash(done)"
     ]
-  }
+  },
+  "enabledMcpjsonServers": [
+    "aidesigner",
+    "twitter"
+  ]
 }
