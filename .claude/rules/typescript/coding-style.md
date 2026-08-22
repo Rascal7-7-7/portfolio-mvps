@@ -7,7 +7,7 @@ paths:
 ---
 # TypeScript/JavaScript Coding Style
 
-> This file extends [common/coding-style.md](../common/coding-style.md) with TypeScript/JavaScript specific content.
+> TypeScript/JavaScript-specific delta. General coding-style guidance is supplied by the globally loaded common rules; this file adds only TS/JS specifics.
 
 ## Types and Interfaces
 
@@ -196,4 +196,4 @@ const validated: UserInput = userSchema.parse(input)
 
 - No `console.log` statements in production code
 - Use proper logging libraries instead
-- See hooks for automatic detection
+- See [hooks.md](./hooks.md) for the TS/JS hook notes

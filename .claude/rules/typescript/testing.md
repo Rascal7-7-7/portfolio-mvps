@@ -7,7 +7,7 @@ paths:
 ---
 # TypeScript/JavaScript Testing
 
-> This file extends [common/testing.md](../common/testing.md) with TypeScript/JavaScript specific content.
+> TypeScript/JavaScript-specific delta. General testing guidance is supplied by the globally loaded common rules; this file adds only TS/JS specifics.
 
 ## E2E Testing
 

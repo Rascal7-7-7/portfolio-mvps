@@ -7,7 +7,7 @@ paths:
 ---
 # TypeScript/JavaScript Security
 
-> This file extends [common/security.md](../common/security.md) with TypeScript/JavaScript specific content.
+> TypeScript/JavaScript-specific delta. General security guidance is supplied by the globally loaded common rules; this file adds only TS/JS specifics.
 
 ## Secret Management
 
@@ -25,4 +25,4 @@ if (!apiKey) {
 
 ## Agent Support
 
-- Use **security-reviewer** skill for comprehensive security audits
+- Use the **security-reviewer** agent for comprehensive security audits

@@ -7,7 +7,7 @@ paths:
 ---
 # TypeScript/JavaScript Patterns
 
-> This file extends [common/patterns.md](../common/patterns.md) with TypeScript/JavaScript specific content.
+> TypeScript/JavaScript-specific delta. General pattern guidance is supplied by the globally loaded common rules; this file adds only TS/JS specifics.
 
 ## API Response Format
 
